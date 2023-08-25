@@ -1504,7 +1504,7 @@ class WeatherApi extends ApiInterface {
     apiKey: null,
   };
 
-  #urlTemplate = `http://api.weatherapi.com/v1/`;
+  #urlTemplate = `https://api.weatherapi.com/v1/`;
 
   #endPoints = {
     current: `current.json?`,
