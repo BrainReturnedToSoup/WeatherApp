@@ -6291,7 +6291,7 @@ class WeatherApp {
   #weatherAppFragment = null;
 
   #configData = {
-    apiKey: `d9563f6e601e4aa199a205713232607`,
+    apiKey: `1ea79c090dd94fe586942809232508`,
     searchBarUniqueIdentifier: `Weather-Location`,
   };
 
